@@ -1,0 +1,26 @@
+{
+  "name": "node_exercise",
+  "version": "1.0.0",
+  "description": "一个node.js的练习项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacklisten/node_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacklisten/node_exercise/issues"
+  },
+  "homepage": "https://github.com/blacklisten/node_exercise#readme",
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "log4js": "^4.3.1",
+    "request": "^2.88.0"
+  }
+}
